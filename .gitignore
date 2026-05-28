@@ -1,0 +1,38 @@
+# Environment variables (contains sensitive keys)
+.env
+*.env
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
+.venv/
+venv/
+env/
+poetry.lock
+.poetry/
+agent1qtuk4nr59r_data.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node modules (if frontend grows later)
+node_modules/
+
+# Build/dist files
+dist/
+build/
+
+# Vscode settings
+.vscode/
+
+# Environment local configs
+.env.local
+.env.development.local
+.env.production.local
