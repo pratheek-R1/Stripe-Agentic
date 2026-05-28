@@ -76,9 +76,9 @@ The project combines:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Perex21/stripe-agentic-payments.git
+git clone https://github.com/pratheek-R1/Stripe-Agentic
 
-cd fetch-stripe-payment-agent
+cd Stripe-Agentic
 
 # Install dependencies
 pip install -r requirements.txt
